@@ -1,0 +1,6 @@
+
+push
+1右键进入 git bash
+		git add 新增的文件
+2git commit -m"说明"
+3git push origin main
